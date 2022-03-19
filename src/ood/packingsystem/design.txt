@@ -1,0 +1,27 @@
+1. admin
+    1. add/remove/edit parking floor
+    2. add/remove/edit parking spot
+    3. add/remove/edit parking attendant
+    4. log in/log out
+    5. update account
+    6. view account
+
+    Admin, ParkingFloor, ParkingSpot, Parking Attendant, Account,
+
+
+2. parking attendant
+    1. cash payment
+
+    4. log in/log out
+    5. update account
+    6. view account
+
+    Payment,
+
+3. customer
+    1. take ticket
+    2. scan ticket
+    3. pay ticket (by card)
+
+    parking ticket, VehicleType,
+
