@@ -14,4 +14,24 @@ public abstract class Vehicle {
     public void assignTicket(ParkingTicket ticket){
         this.ticket = ticket;
     }
+
+    public String getLicenseNumber() {
+        return licenseNumber;
+    }
+
+    public void setLicenseNumber(String licenseNumber) {
+        this.licenseNumber = licenseNumber;
+    }
+
+    public VehicleType getType() {
+        return type;
+    }
+
+    public ParkingTicket getTicket() {
+        return ticket;
+    }
+
+    public void setTicket(ParkingTicket ticket) {
+        this.ticket = ticket;
+    }
 }

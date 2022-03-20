@@ -27,4 +27,29 @@ public abstract class ParkingSpot {
         free = true;
         return true;
     }
+
+    public ParkingSpotType getType() {
+        return type;
+    }
+
+    public Vehicle getVehicle() {
+        return vehicle;
+    }
+
+    public void setVehicle(Vehicle vehicle) {
+        this.vehicle = vehicle;
+    }
+
+    public String getNumber() {
+        return number;
+    }
+
+    public void setNumber(String number) {
+        this.number = number;
+    }
+
+    public boolean isFree() {
+        return free;
+    }
+
 }

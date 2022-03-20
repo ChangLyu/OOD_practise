@@ -1,6 +1,6 @@
 1. admin
     1. add/remove/edit parking floor
-    2. add/remove/edit parking spot
+    2. add/remove/edit parking spot  ==>
     3. add/remove/edit parking attendant
     4. log in/log out
     5. update account
