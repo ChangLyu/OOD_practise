@@ -1,0 +1,22 @@
+User:
+3. checkout and buy items
+4. rate and review product
+5. provide shipping address
+6. cancel an order
+7. pay by credit card/bank transfer
+8.track shipment
+
+guest:
+1. add/remove/modify shopping cart
+2. search for new product by name or category
+3. log in/up
+
+
+admin:
+1. add new product to sell
+2. manage account: block/unblock account
+3. modify new product categories
+
+
+system:
+1. notify user with change regarding for order or shipping status chagne
