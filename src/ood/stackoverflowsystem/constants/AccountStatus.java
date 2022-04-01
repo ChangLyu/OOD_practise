@@ -1,4 +1,4 @@
-package ood.shoppingsystem.constants;
+package ood.stackoverflowsystem.constants;
 
 public enum AccountStatus {
     ACTIVE,
